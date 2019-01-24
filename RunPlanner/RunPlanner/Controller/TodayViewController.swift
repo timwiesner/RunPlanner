@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  TodayViewController.swift
 //  RunPlanner
 //
 //  Created by Tim Wiesner on 1/24/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TodayViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
